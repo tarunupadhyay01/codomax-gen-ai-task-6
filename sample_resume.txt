@@ -1,0 +1,21 @@
+Tarun Upadhyay
+Generative AI Intern | Agra, Uttar Pradesh, India
+
+SUMMARY
+Final-year student interested in Generative AI and Python development. Completed a virtual internship project series on LLM APIs, RAG and AI agents.
+
+SKILLS
+Python, Streamlit, Git and GitHub, Google Colab, Gemini API, prompt engineering, basic SQL, HTML and CSS.
+
+PROJECTS
+AI Chat Application: Built a chat app with the Gemini API and Streamlit. Added chat history, custom instructions, token usage tracking and error handling for busy servers.
+
+Chat With Your Documents: Built a RAG app that splits PDFs into chunks, creates embeddings and retrieves answers from a FAISS vector database with sources.
+
+AI Agent with Tools: Built an agent with function calling that uses a calculator, weather API, Wikipedia and a to-do database.
+
+EDUCATION
+Bachelor of Technology (Computer Science), expected 2027.
+
+CERTIFICATIONS
+Generative AI virtual internship, Codomax Digital Solutions.

@@ -1,0 +1,20 @@
+Job Description: Junior AI Engineer (Fresher)
+
+About the role
+We are looking for a Junior AI Engineer to help build AI-powered features for our customers. You will work with large language models, build small prototypes and deploy them.
+
+Responsibilities
+- Build and test LLM applications using APIs such as Gemini or OpenAI.
+- Design prompts and evaluate their quality.
+- Build retrieval-augmented generation (RAG) pipelines using embeddings and vector databases.
+- Create simple AI agents that use tools and APIs.
+- Deploy applications and write clear documentation.
+
+Required skills
+Python, REST APIs, Git, prompt engineering, understanding of RAG, and basic knowledge of SQL or databases.
+
+Good to have
+Docker, FastAPI, unit testing, cloud deployment experience, and experience with LangChain or similar frameworks.
+
+Soft skills
+Clear communication, willingness to learn, and the ability to explain technical ideas simply.
